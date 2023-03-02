@@ -3,7 +3,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
@@ -15,45 +15,45 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['447418329446-260978532917-918496917894'] //ur owner number
+global.ownername = "ʟɪᴇᴜᴛᴇɴᴀɴᴛ-𝔽𝕖𝕝𝕚𝕩 𝕞𝕒𝕩-𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒" //ur owner name
+global.ytname = "illusion fox" //ur yt chanel name
+global.socialm = "𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒" //ur github or insta name
+global.location = "Tokyo, Japan" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
 global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = 'QUEEN -X' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
+global.ownernomer = "14157614157" //ur number
+global.premium = ['14157614157'] //ur premium number
+global.botname = '𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒' //ur bot name
+global.linkz = "https://chat.whatsapp.com/GcHrzmyI1YbDGKI5SoIyBI" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/GcHrzmyI1YbDGKI5SoIyBI" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
-global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.themeemoji = "🏴‍☠️" //ur theme emoji
+global.packname = "👾" //ur sticker watermark packname
+global.author = "𝔽𝕖𝕝𝕚𝕩 𝕞𝕒𝕩" //ur sticker watermark author
+global.wm = "𝗟𝗶𝗲𝘂𝘁𝗲𝗻𝗮𝗻𝘁." //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
-global.sp = ''
+global.prefa = ['/','!','.','#','&']
+global.sp = '/'
 
 //messages
 global.mess = {
-    success: '*💭Here you go!*',
-    admin: '*💭This feature could be used by admins only!*',
-    botAdmin: '*💭Bot Must Be Admin First!*',
+    success: '*💭less go!*',
+    admin: '*💭only the kings can use this feature!*',
+    botAdmin: '*💭Bot Must Be king First!*',
     premime: '*💭Premium Special Features If You Want to Register Type Rent*',
-    owner: '*💭This feature could be used by owner only*',
+    owner: '*💭This feature could be used by owners only*',
     group: '*💭Features Used Only For Groups!*',
     private: '*💭Features Used Only For Private Chat!*',
     bot: '*💭This feature could be used by bot only*',
-    wait: '*💭Please wait...*',
-    linkm: '*💭Where is the link?*',
+    wait: '*💭sabar...*',
+    linkm: '*💭Did you give me link😒?*',
     endLimit: '*💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
-    nsfw: '*💭The nsfw feature has not been activated, please contact the admin to activate*',
+    nsfw: '*💭The nsfw feature has not been activated, please contact the kings to activate*',
 }
 
 //media target
