@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=QUEEN+-X+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒+WHATSAPP+BOT" alt="">
 </p>
 <p align="center"><img src="https://i.ibb.co/Ks7vw3c/logo.jpg" alt="animated" /></p>
 
